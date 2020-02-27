@@ -1,4 +1,4 @@
-# Python_telethon
+# Cola_Script:
 That Script help your to forward your post. 
 For using this Script you must to add your 
 Telegram Accounts:
